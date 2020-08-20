@@ -45,3 +45,7 @@ errorcontextlines
 trapezoidation
 apices
 satisfiable
+Karatsuba
+Toom
+radix
+precomputed
